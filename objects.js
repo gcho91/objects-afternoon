@@ -2,7 +2,11 @@
 
 // Code Here
 
-
+var user = {
+  name: "Gloria",
+  age: 25,
+  password: coffee123
+};
 
 // Add an email and username, as well as a method called alertUser that alerts the users name, to your user object using dot notation.
 
@@ -41,14 +45,14 @@
 
 
 /* Using bracket notation, add a bonusCategories key to your creditCard object using 'alternating'.
-    Set it's value to an array of 3 items that are objects. 
-    Each object should have one key value pair. 
+    Set it's value to an array of 3 items that are objects.
+    Each object should have one key value pair.
     That key value pair should be the category as the key and the percent it's work for the bonus as the value.
-    (e.g. Department Stores, 5%) 
-    
+    (e.g. Department Stores, 5%)
+
     Using dot notation add another key to your object called 'bank' with the value being an object with 2 keys,
         the bank name, and the bank address.
-    
+
     */
 
 // Code Here
@@ -71,5 +75,3 @@ var obj = {
   };
 
   // Code Here
-
-  
