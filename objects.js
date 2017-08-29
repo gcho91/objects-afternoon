@@ -23,7 +23,7 @@ user.alertUser = function () {
 // Code Here
 for (var key in user) {
   alert(key);
-}
+}    
 
 
 // Now loop over your user object and alert each of the values for each key.
